@@ -6,10 +6,10 @@ This project build an ETL pipeline to prepare data for an analytics table with U
 
 The project follows these steps:
 
-Step 1: Scope the Project and Gather Data
-Step 2: Explore and Assess the Data
-Step 3: Define the Data Model
-Step 4: Run ETL to Model the Data
-Step 5: Complete Project Write Up
+1. Scope the Project and Gather Data
+2. Explore and Assess the Data
+3. Define the Data Model
+4. Run ETL to Model the Data
+5. Complete Project Write Up
 
 Complete project can be accessed from the jupyter notebook.
